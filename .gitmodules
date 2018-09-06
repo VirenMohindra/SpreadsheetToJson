@@ -1,0 +1,3 @@
+[submodule "gsx2json"]
+	path = gsx2json
+	url = https://github.com/55sketch/gsx2json
