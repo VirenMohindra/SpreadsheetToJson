@@ -1,6 +1,10 @@
 Metrics/MethodLength: 
   Enabled: false
 
+Metrics/BlockNesting:
+  Enabled: true
+  Max: 4
+
 Metrics/AbcSize:
   Enabled: false
 
